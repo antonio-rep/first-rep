@@ -1,2 +1,2 @@
-# first-rep
+# Primeiro repositório
 JS Course
