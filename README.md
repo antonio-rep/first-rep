@@ -1,2 +1,2 @@
 # Primeiro repositório
-JS Course
+## JS Course
